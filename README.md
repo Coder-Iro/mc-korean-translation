@@ -1,2 +1,2 @@
-# mc-korean-translantion
+# mc-korean-translation
 Minecraft Unofficial Korean Translation project
