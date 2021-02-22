@@ -4,9 +4,9 @@
       "description": "A Unofficial Korean Translation Pack"
    },
    "language": {
-      "LANG_COUNTRY": {
+      "ko_us": {
          "name": "한국어(비공식)",
-         "region": "Country/region name",
+         "region": "ko/us",
          "bidirectional": false
       }
    }
