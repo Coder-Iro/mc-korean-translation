@@ -1,0 +1,13 @@
+{
+   "pack": {
+      "pack_format": 3,
+      "description": "A Unofficial Korean Translation Pack"
+   },
+   "language": {
+      "LANG_COUNTRY": {
+         "name": "한국어(비공식)",
+         "region": "Country/region name",
+         "bidirectional": false
+      }
+   }
+}
